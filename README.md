@@ -31,7 +31,7 @@ Playwright-Automation-Framework/
 **⚙️ Installation** : 
 
 # Clone the repository
-git clone https://github.com/Hrishikesh04/Playwright Automation Framework.git
+git clone https://github.com/Hrishikesh04/Playwright-Automation-Framework.git
 
 # Navigate into project
 cd playwright-automation-framework
